@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="001413f8-c6a5-4b58-a6df-9798009c26f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XRQVI0JHzcgb0ehE2UGTMyhxQc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ExamplesTest">
+    <configuration name="Feature: users" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/examples/users/users.feature" />
+      <option name="GLUE" value="com.intuit.karate" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Karate-Gatling-Grafana" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: users" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExamplesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Karate-Gatling-Grafana" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExamplesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Karate-Gatling-Grafana" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="users.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="users" />
+      <option name="MAIN_CLASS_NAME" value="users.UsersRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersRunner.testUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Karate-Gatling-Grafana" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="users.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="users" />
+      <option name="MAIN_CLASS_NAME" value="users.UsersRunner" />
+      <option name="METHOD_NAME" value="testUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExamplesTest" />
+        <item itemvalue="JUnit.UsersRunner" />
+        <item itemvalue="Cucumber java.Feature: users" />
+        <item itemvalue="JUnit.UsersRunner.testUsers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="001413f8-c6a5-4b58-a6df-9798009c26f6" name="Default Changelist" comment="" />
+      <created>1581006448891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581006448891</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="632" y="447" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1581115879545">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="632" y="447" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581115879545" />
+    <state x="419" y="457" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1581117872797">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="419" y="457" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581117872797" />
+    <state x="606" y="391" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581117883347">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="606" y="391" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1050@0.0.1680.1050" timestamp="1581117883347" />
+    <state x="606" y="412" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1581117874548">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="606" y="412" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1680.1050@0.0.1680.1050" timestamp="1581117874548" />
+    <state width="1638" height="234" key="GridCell.Tab.0.bottom" timestamp="1581113991185">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="234" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581113991185" />
+    <state width="1878" height="234" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1581007207472" />
+    <state width="1638" height="234" key="GridCell.Tab.0.center" timestamp="1581113991183">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="234" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581113991183" />
+    <state width="1878" height="234" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1581007207470" />
+    <state width="1638" height="234" key="GridCell.Tab.0.left" timestamp="1581113991181">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="234" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581113991181" />
+    <state width="1878" height="234" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1581007207469" />
+    <state width="1638" height="234" key="GridCell.Tab.0.right" timestamp="1581113991184">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="234" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581113991184" />
+    <state width="1878" height="234" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1581007207471" />
+    <state x="2271" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1581006612297">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2271" y="349" key="com.intellij.ide.util.TipDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1581006612297" />
+    <state x="517" y="330" key="com.intellij.ide.util.TipDialog/1680.23.1920.1057/0.23.1680.949@0.23.1680.949" timestamp="1581006457288" />
+    <state x="498" y="160" width="683" height="729" key="find.popup" timestamp="1581118525059">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="498" y="160" width="683" height="729" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1581118525059" />
+  </component>
+</project>
